@@ -1,0 +1,2 @@
+# trainingGit
+for git training
